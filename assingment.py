@@ -7,5 +7,5 @@ elif operation == "-":
   print(first_number, " - ", second_number, " = ", first_number - second_number)
 elif operation == "*":
   print(first_number, " * ", second_number, " = ", first_number * second_number)
-else operation == "/":
-print(first_number, " / ", second_number, " = ", first_number / second_number)
+else:
+    print(first_number, " / ", second_number, " = ", first_number / second_number)
